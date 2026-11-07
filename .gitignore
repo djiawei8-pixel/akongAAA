@@ -1,0 +1,11 @@
+# Local secrets and private working files
+.env
+.env.*
+!.env.example
+private/
+local-data/
+tmp/
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
